@@ -21,7 +21,7 @@ The `Qa Intern Test Cases` document includes:
 - Eight detailed test cases for the login functionality
 - Six test cases for employee management (Add, View, Update, Delete)
 - A list of three confirmed bugs/usability issues
-- Humanized expected and actual results with pass/fail status
+- expected and actual results with pass/fail status
 
 ## Automation Summary
 
