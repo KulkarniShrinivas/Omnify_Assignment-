@@ -10,7 +10,8 @@ This repository contains the manual and automated testing work completed as part
 
 - URL: [https://opensource-demo.orangehrmlive.com/web/index.php/auth/login](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
-![image](https://github.com/user-attachments/assets/73dc9eba-e6ce-4770-bd5a-62c28b40370a)
+
+![Screenshot from 2025-04-14 00-55-02](https://github.com/user-attachments/assets/cef65169-19ec-4715-b939-4f5a37920f06)
 
 
 ## Manual Test Deliverables
@@ -48,22 +49,6 @@ The automation scripts were written using:
 
 These issues are logged in the test document as confirmed bugs.
 
-## Folder Structure
-
-```
-OrangeHRM_Automation/
-├── pages/                  # POM-based Page Classes
-│   ├── LoginPage.py
-│   ├── DashboardPage.py
-│   ├── PIMPage.py
-│   └── LogoutPage.py
-├── tests/                  # Automation test script
-│   └── EmployeeTest.py
-├── utils/                  # Driver setup
-│   └── driver_setup.py
-├── Qa Intern Test Cases.docx  # Manual test cases and bug report
-└── README.md
-```
 
 ## How to Run
 
