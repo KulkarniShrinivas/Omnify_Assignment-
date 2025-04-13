@@ -10,6 +10,9 @@ This repository contains the manual and automated testing work completed as part
 
 - URL: [https://opensource-demo.orangehrmlive.com/web/index.php/auth/login](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
+![image](https://github.com/user-attachments/assets/73dc9eba-e6ce-4770-bd5a-62c28b40370a)
+
+
 ## Manual Test Deliverables
 
 The `Qa Intern Test Cases` document includes:
